@@ -33,5 +33,5 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 # Wordcloud
 <p align="center">
-     <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/97270ed8-05c8-4dae-90b9-a8bc90e1c0db" alt="">
+     <img width="1000" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/97270ed8-05c8-4dae-90b9-a8bc90e1c0db" alt="">
 </p>
