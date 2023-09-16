@@ -8,11 +8,11 @@ The higher the score, the more similar the two strings. The idea is to find the 
 Its expressed in the mathematical terms by
 
 <p align="center">
-   <img width="200" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/40a5a93c-a06e-4ab5-9a74-ecb8491de068" alt="">
+   <img width="800" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/40a5a93c-a06e-4ab5-9a74-ecb8491de068" alt="">
 </p>
 
 <p align="center">
-     <img width="200" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/be36bfba-bc1e-4767-9a91-a56ab637ff99" alt="">
+     <img width="800" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/be36bfba-bc1e-4767-9a91-a56ab637ff99" alt="">
 </p>
 
 
