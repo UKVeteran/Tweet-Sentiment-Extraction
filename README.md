@@ -2,6 +2,8 @@
 
 The objective is to construct a model that can look at the labeled sentiment for a given tweet and figure out what word or phrase best supports it.
 
+<a href="[https://www.kaggle.com/datasets/ukveteran/mvp-subset](https://www.kaggle.com/competitions/tweet-sentiment-extraction/)">Kaggle Tweet Sentiment Extraction Dataset</a>
+
 # The Metric Demystified: Jaccard Score
 The metric in this competition is the word-level Jaccard score. Jaccard Score is a measure of how similar/dissimilar two sets are. 
 The higher the score, the more similar the two strings. The idea is to find the number of common tokens and divide it by the total number of unique tokens. 
@@ -24,5 +26,5 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 
 ## Sources
-1) <br>
-2) 
+1) <a href="https://www.kaggle.com/datasets/ukveteran/mvp-subset"></a><br>
+2) <a href="https://www.kaggle.com/datasets/ukveteran/mvp-subset"></a>
