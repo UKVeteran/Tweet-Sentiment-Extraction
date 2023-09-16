@@ -31,7 +31,11 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 1) <a href="https://en.wikipedia.org/wiki/Jaccard_index" >Wikipedia Article </a><br>
 2) <a href="https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python" >DataAspirant Article</a>
 
-# Wordcloud
+# Data Viz.
+
+## Wordcloud
 <p align="center">
      <img width="1000" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/97270ed8-05c8-4dae-90b9-a8bc90e1c0db" alt="">
 </p>
+
+## N-grams
