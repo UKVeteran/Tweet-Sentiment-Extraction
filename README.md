@@ -1,8 +1,10 @@
 # Tweet-Sentiment-Extraction
 
+<a href="https://www.kaggle.com/competitions/tweet-sentiment-extraction/">Kaggle Tweet Sentiment Extraction Dataset</a>
+
 The objective is to construct a model that can look at the labeled sentiment for a given tweet and figure out what word or phrase best supports it.
 
-<a href="(https://www.kaggle.com/competitions/tweet-sentiment-extraction/)">Kaggle Tweet Sentiment Extraction Dataset</a>
+
 
 # The Metric Demystified: Jaccard Score
 The metric in this competition is the word-level Jaccard score. Jaccard Score is a measure of how similar/dissimilar two sets are. 
