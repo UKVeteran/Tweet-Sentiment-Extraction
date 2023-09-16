@@ -38,4 +38,27 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
      <img width="1000" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/97270ed8-05c8-4dae-90b9-a8bc90e1c0db" alt="">
 </p>
 
-## N-grams
+## Text Length Distribution
+
+
+## Length of Text
+
+
+## Text Word Count
+
+## Unigrams
+
+## Bigrams
+
+## Trigrams
+
+# Most Common Words
+
+## Postive
+![positive](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/5ac14dde-1ec1-4f90-a8db-3490cac2c2cf)
+
+## Neutral
+![neutral](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/c7fdc1bf-ce97-47f3-9667-c5ab59c0af9a)
+
+## Negative
+![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/18215ebb-68a5-4841-9141-54603366b9a1)
