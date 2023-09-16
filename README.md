@@ -28,5 +28,5 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 
 ## Sources
-1) <a href="https://www.kaggle.com/datasets/ukveteran/mvp-subset"></a><br>
-2) <a href="https://www.kaggle.com/datasets/ukveteran/mvp-subset"></a>
+1) <a href="https://en.wikipedia.org/wiki/Jaccard_index"></a><br>
+2) <a href="https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python"></a>
