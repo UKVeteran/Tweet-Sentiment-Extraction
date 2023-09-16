@@ -21,3 +21,8 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 <p align="center">
      <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/1dc4c0e5-0330-4728-8e2e-bfd7fb867fb5" alt="">
 </p>
+
+
+## Sources
+1) <br>
+2) 
