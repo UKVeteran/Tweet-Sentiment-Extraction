@@ -54,7 +54,7 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 # Most Common Words
 
-## Postive
+## Positive
 ![positive](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/5ac14dde-1ec1-4f90-a8db-3490cac2c2cf)
 
 ## Neutral
