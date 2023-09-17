@@ -23,8 +23,12 @@ Its expressed in the mathematical terms by
 Here is a great example to understand the Jaccard Similarity Metric in an inutitve way.
 
 <p align="center">
-     <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/864a1c3c-4080-4f67-8ca9-7f0cfc6419d5" alt="">
+     <img width="600" src=" https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/cc48df8d-0998-49b4-83dd-1a2904c2bb52 " alt="">
 </p>
+
+
+
+
 
 <p align="center">
      <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/f40c9035-8b4e-4a7c-9130-27b5ccd55303" alt="">
