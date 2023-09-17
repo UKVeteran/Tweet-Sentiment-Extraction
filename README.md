@@ -26,9 +26,9 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
      <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/864a1c3c-4080-4f67-8ca9-7f0cfc6419d5" alt="">
 </p>
 
-
-![ezgif-3-bb1e4b7dcc](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/f40c9035-8b4e-4a7c-9130-27b5ccd55303)
-
+<p align="center">
+     <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/f40c9035-8b4e-4a7c-9130-27b5ccd55303" alt="">
+</p>
 
 ## Sources
 1) <a href="https://en.wikipedia.org/wiki/Jaccard_index" >Wikipedia Article </a><br>
