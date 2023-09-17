@@ -53,12 +53,25 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 
 ## Text Word Count
+### Positive
+
+### Neutral
+
+
+### Negative
+
 
 ## Unigrams
 
+
+
 ## Bigrams
 
+
+
 ## Trigrams
+
+
 
 ## Most Common Words
 
