@@ -15,6 +15,7 @@ Its expressed in the mathematical terms by
    <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/40a5a93c-a06e-4ab5-9a74-ecb8491de068" alt="">
 </p>
 
+
 <p align="center">
      <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/be36bfba-bc1e-4767-9a91-a56ab637ff99" alt="">
 </p>
@@ -23,11 +24,8 @@ Its expressed in the mathematical terms by
 Here is a great example to understand the Jaccard Similarity Metric in an inutitve way.
 
 <p align="center">
-     <img width="600" src=" https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/cc48df8d-0998-49b4-83dd-1a2904c2bb52 " alt="">
+     <img width="600" src=" https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/fabc88ca-9a86-461b-b7c8-5672c8bd024e" alt="">
 </p>
-
-
-
 
 
 <p align="center">
