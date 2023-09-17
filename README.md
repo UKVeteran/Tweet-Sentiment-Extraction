@@ -21,7 +21,7 @@ Its expressed in the mathematical terms by
 </p>
 
 
-Here is a great example to understand the Jaccard Metric in an inutitve way.
+Here is a great example to understand the Jaccard Metric in an inutitve way:
 
 <p align="center">
      <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/9dedaf72-ed8e-468f-b8f0-be5736c4092d" alt="">
