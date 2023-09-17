@@ -77,11 +77,21 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 
 ## Bigrams
+### Positive
 
+### Neutal
+
+
+### Negative
 
 
 ## Trigrams
+### Positive
 
+### Neutal
+
+
+### Negative
 
 
 ## Most Common Words
