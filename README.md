@@ -26,6 +26,12 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
      <img width="600" src="https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/864a1c3c-4080-4f67-8ca9-7f0cfc6419d5" alt="">
 </p>
 
+<p align="center">
+     <img width="600" src=" https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/cda21a22-ed64-4ca7-90a2-e49d4d13bf0d" alt="">
+</p>
+
+
+
 
 ## Sources
 1) <a href="https://en.wikipedia.org/wiki/Jaccard_index" >Wikipedia Article </a><br>
