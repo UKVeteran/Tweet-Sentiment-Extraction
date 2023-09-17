@@ -52,13 +52,13 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 ## Trigrams
 
-# Most Common Words
+## Most Common Words
 
-## Positive
+### Positive
 ![positive](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/5ac14dde-1ec1-4f90-a8db-3490cac2c2cf)
 
-## Neutral
+### Neutral
 ![neutral](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/c7fdc1bf-ce97-47f3-9667-c5ab59c0af9a)
 
-## Negative
+### Negative
 ![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/18215ebb-68a5-4841-9141-54603366b9a1)
