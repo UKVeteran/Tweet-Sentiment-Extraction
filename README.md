@@ -49,6 +49,7 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 ![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/bcffac63-2091-4c5c-bc33-0a2f77f419e9)
 
 ## Length of Text
+![lengthoftext](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/6aa103f7-2b2f-4884-af74-c1c70439edfb)
 
 
 ## Text Word Count
