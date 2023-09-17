@@ -78,11 +78,14 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 ## Bigrams
 ### Positive
+![positive](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/de16417d-05db-4e11-b91e-3b6f1a5a6ca3)
 
 ### Neutal
+![neutral](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/5de5c10c-7275-47a4-b42c-dfbb204bd125)
 
 
 ### Negative
+![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/6b7f56e8-6c97-4acb-91a3-6af6823b7720)
 
 
 ## Trigrams
