@@ -117,10 +117,18 @@ Here is a great example to understand the Jaccard Metric in an inutitve way:
 ![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/18215ebb-68a5-4841-9141-54603366b9a1)
 
 
-# RoBERTa Base
-
 # BERT Base
 
-## Cased
+BERT is a transformers model pretrained on a large corpus of English data in a self-supervised fashion. This means it was pretrained on the raw texts only, with no humans labeling them in any way
+with an automatic process to generate inputs and labels from those texts. More precisely, it was pretrained with two objectives:
+1) Masked language modeling (MLM): taking a sentence, the model randomly masks 15% of the words in the input then run the entire masked sentence through the model and has to predict the masked words. This is different from traditional recurrent neural networks (RNNs) that usually see the words one after the other, or from autoregressive models like GPT which internally masks the future tokens. It allows the model to learn a bidirectional representation of the sentence.
+2) Next sentence prediction (NSP): the models concatenates two masked sentences as inputs during pretraining. Sometimes they correspond to sentences that were next to each other in the original text, sometimes not. The model then has to predict if the two sentences were following each other or not.
 
-## Uncased
+# RoBERTa Base
+RoBERTa is a transformers model pretrained on a large corpus of English data in a self-supervised fashion. This means it was pretrained on the raw texts only, with no humans labelling them in any way with
+an automatic process to generate inputs and labels from those texts.
+
+More precisely, it was pretrained with the Masked language modeling (MLM) objective. Taking a sentence, the model randomly masks 15% of the words in the input then run the entire masked sentence through the 
+model and has to predict the masked words. This is different from traditional recurrent neural networks (RNNs) that usually see the words one after the other, or from autoregressive models like GPT which internally
+mask the future tokens. It allows the model to learn a bidirectional representation of the sentence.
+
