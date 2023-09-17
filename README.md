@@ -39,7 +39,14 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 </p>
 
 ## Text Length Distribution
+### Positive
+![positive](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/d076084b-b982-4a37-b760-bcf4d3a4d900)
 
+### Neutral
+![neutral](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/73f823c6-cf02-40aa-a10b-a3e28fcd26e8)
+
+### Negative
+![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/bcffac63-2091-4c5c-bc33-0a2f77f419e9)
 
 ## Length of Text
 
