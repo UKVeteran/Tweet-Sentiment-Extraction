@@ -65,7 +65,15 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 ![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/ace49567-d9ec-4bb1-bd99-2b3c8c929709)
 
 ## Unigrams
+### Positive
+![positive](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/596cbf28-ec23-4b99-a9a6-09f7fa7595e7)
 
+### Neutal
+![neutral](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/89cf66ef-f909-4dad-861c-a86cb57916f9)
+
+### Negative
+
+![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/74eade48-09e0-49df-bef7-f2a07281c0df)
 
 
 ## Bigrams
