@@ -54,12 +54,15 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 ## Text Word Count
 ### Positive
+![positive](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/f9a899af-4b34-47eb-a7f8-ecef07893433)
 
 ### Neutral
 
+![neutral](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/4e1ab969-97eb-4833-8f07-8613d1c42eec)
 
 ### Negative
 
+![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/ace49567-d9ec-4bb1-bd99-2b3c8c929709)
 
 ## Unigrams
 
