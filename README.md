@@ -90,11 +90,14 @@ Here is a great example to understand the Jaccard Similarity Metric in an inutit
 
 ## Trigrams
 ### Positive
+![positive](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/b2b9af05-2071-4c8f-83ee-6610cfd4688b)
 
 ### Neutal
+![neutral](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/c5aa4ceb-62ec-4751-b549-42bc683470c5)
 
 
 ### Negative
+![negative](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/1db58d7b-5df9-4b1c-afc3-48bcedb5b46b)
 
 
 ## Most Common Words
