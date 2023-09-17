@@ -23,6 +23,7 @@ Its expressed in the mathematical terms by
 
 Here is a great example to understand the Jaccard Similarity Metric in an inutitve way.
 
+![ezgif-3-ec7ab86440](https://github.com/UKVeteran/Tweet-Sentiment-Extraction/assets/39216339/71fda682-18b9-4a98-888f-0f3cb5cf9576)
 
 
 <p align="center">
